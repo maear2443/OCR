@@ -1,0 +1,5 @@
+{
+  "name": "C# USB 카메라 이미지 분석기",
+  "description": "USB 카메라로 캡처한 이미지에서 텍스트와 숫자를 추출하는 웹 애플리케이션입니다. Gemini API를 사용하여 강력한 이미지 분석 기능을 제공합니다.",
+  "requestFramePermissions": []
+}
